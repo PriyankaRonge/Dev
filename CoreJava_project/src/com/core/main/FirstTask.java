@@ -7,9 +7,5 @@ public class FirstTask {
 		int c=10+20;
 		
 		System.out.println(" sum : "+c);
-		
-		int e= 10+30;
-		System.out.println(" sum : "+e);
-		
 	}
 }
