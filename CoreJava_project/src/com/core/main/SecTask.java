@@ -8,5 +8,7 @@ public static void main(String[] args) {
 	System.out.println("sum : "+d);
 	int a= 90-45;
 	System.out.println("sub : "+a);
+	int t= 10/10;
+	System.out.println("Division : "+t);
 }
 }
