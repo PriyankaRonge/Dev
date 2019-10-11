@@ -10,5 +10,7 @@ public static void main(String[] args) {
 	System.out.println("sub : "+a);
 	int t= 10/10;
 	System.out.println("Division : "+t);
+	
+	System.out.println("This is all about operations ........"); 
 }
 }
