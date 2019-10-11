@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
 	int d =20+30;
 	System.out.println("sum : "+d);
-	System.out.println();
-
+	int a= 90-45;
+	System.out.println("sub : "+a);
 }
 }
