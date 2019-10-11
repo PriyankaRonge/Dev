@@ -8,5 +8,8 @@ public static void main(String[] args) {
 	System.out.println("sum : "+d);
 	int a= 90-45;
 	System.out.println("sub : "+a);
+	int b= 10*8;
+	System.out.println("multiplication : "+b);
+	
 }
 }
