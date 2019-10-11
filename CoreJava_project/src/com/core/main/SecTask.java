@@ -11,5 +11,7 @@ public static void main(String[] args) {
 	int b= 10*8;
 	System.out.println("multiplication : "+b);
 	
+	int t= 10/10;
+	System.out.println("Division : "+t);
 }
 }
